@@ -1,6 +1,7 @@
 <!-- PREMIUM MINIMALIST HEADER BANNER -->
+<img width="1584" height="672" alt="header" src="https://github.com/user-attachments/assets/3b8bc3f4-136c-4f79-b469-277fd7d49520" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=slice&color=0d1117&height=200&section=header&text=VISHWA%20DHANUJAYA%20GALLAGE&fontSize=36&fontColor=ffffff&fontAlignY=45&sidePadding=0" alt="Vishwa Dhanujaya Gallage" width="100%" />
+  <img src="https://github.com/user-attachments/assets/3b8bc3f4-136c-4f79-b469-277fd7d49520" alt="Vishwa Dhanujaya Gallage Header" width="100%" />
 </p>
 
 <p align="center">
