@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b8bc3f4-136c-4f79-b469-277fd7d49520" alt="Vishwa Dhanujaya Gallage Header" width="100%" />
+  <img src="https://github.com/user-attachments/assets/19ddd1c4-bf45-47fe-861a-cb28f9b4fc64" alt="Vishwa Dhanujaya Gallage Header" width="100%" />
 </p>
 
 <p align="center">
