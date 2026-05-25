@@ -1,5 +1,4 @@
-<!-- PREMIUM MINIMALIST HEADER BANNER -->
-<img width="1584" height="672" alt="header" src="https://github.com/user-attachments/assets/3b8bc3f4-136c-4f79-b469-277fd7d49520" />
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3b8bc3f4-136c-4f79-b469-277fd7d49520" alt="Vishwa Dhanujaya Gallage Header" width="100%" />
 </p>
