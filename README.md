@@ -1,33 +1,39 @@
-<!-- HEADER BANNER -->
+<!-- PREMIUM MINIMALIST HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0d1117&height=180&section=header&text=Vishwa%20Dhanujaya%20Gallage&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=slice&color=0d1117&height=200&section=header&text=VISHWA%20DHANUJAYA%20GALLAGE&fontSize=36&fontColor=ffffff&fontAlignY=45&sidePadding=0" alt="Vishwa Dhanujaya Gallage" width="100%" />
 </p>
 
 <p align="center">
   <strong>Computer Science Student & Software Developer</strong><br />
-  Building clean architecture, exploring data landscapes, and optimizing algorithmic solutions.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><strong>LinkedIn</strong></a> • 
-  <a href="mailto:YOUR_EMAIL@domain.com"><strong>Email</strong></a> • 
-  <a href="https://YOUR_PORTFOLIO.com"><strong>Portfolio</strong></a>
+  <em>Building clean architecture, exploring data landscapes, and optimizing algorithmic solutions.</em>
 </p>
 
 ---
 
-### 📁 About & Philosophy
+### <img src="https://img.shields.io/badge/Profile-0d1117?style=flat-square&logo=github&logoColor=ffffff" height="22"> About & Philosophy
 
-I focus on writing readable, maintainable code and breaking down complex technical challenges into elegant software solutions. I treat version control as a narrative, data as a story, and optimization as a necessity. 
+I focus on writing readable, maintainable code and breaking down complex technical challenges into elegant software solutions. I treat version control as a narrative, data as a story, and optimization as a necessity.
 
 | Current Pursuits | Technical Interests |
 | :--- | :--- |
-| 🚀 **Scalable Systems:** Software architecture & design patterns | 📊 **Data Computing:** Statistical analysis & reproducible research |
-| 🛠️ **Modern Dev Tools:** CI/CD workflows, Git automation, and Linux | 💡 **Algorithm Design:** Resource-efficient logic & structures |
+| <img src="https://img.shields.io/badge/Systems-0d1117?style=flat-square&logo=git&logoColor=ffffff" height="16"> **Scalable Architecture:** Software design patterns | <img src="https://img.shields.io/badge/Data-0d1117?style=flat-square&logo=python&logoColor=ffffff" height="16"> **Computing:** Analysis & reproducible research |
+| <img src="https://img.shields.io/badge/DevOps-0d1117?style=flat-square&logo=linux&logoColor=ffffff" height="16"> **Modern Tools:** CI/CD workflows & Git automation | <img src="https://img.shields.io/badge/Logic-0d1117?style=flat-square&logo=cplusplus&logoColor=ffffff" height="16"> **Algorithms:** Resource-efficient structures |
 
 ---
 
-### 🛠️ Core Stack & Environment
+### <img src="https://img.shields.io/badge/Repositories-0d1117?style=flat-square&logo=gitkraken&logoColor=ffffff" height="22"> Featured Projects
+
+#### Analytical Data & Processing Pipeline
+A reproducible data environment designed for processing complex datasets, utilizing statistical workflows to clean, transform, and extract structural insights.
+`R` `Python` `Data Exploration` `Automation`
+
+#### Optimized Algorithmic Solutions
+A collection of performance-driven implementations handling foundational data structures, algorithmic complexity optimization, and clean logic execution.
+`C++` `Algorithms` `Optimization`
+
+---
+
+### <img src="https://img.shields.io/badge/Stack-0d1117?style=flat-square&logo=codeforces&logoColor=ffffff" height="22"> Core Stack & Environment
 
 ```text
   Languages        ■ Python  ■ R  ■ SQL  ■ C++  ■ Java
