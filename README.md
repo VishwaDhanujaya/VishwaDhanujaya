@@ -18,7 +18,7 @@
 
 <br>
 
-CS student and software developer, currently working as an intern. I build all kinds of things — web apps, mobile apps, data pipelines, and AI-powered tools. I care about writing code that's clean, systems that scale, and products that actually work. I enjoy the full picture: from database design and auth to frontend polish and LLM integration.
+CS student and software developer, currently working as an intern. I build all kinds of things — web apps, mobile apps, data pipelines, and AI-powered tools. I care about writing code that's clean, systems that scale, and products that actually work.
 
 <br>
 
@@ -28,39 +28,29 @@ CS student and software developer, currently working as an intern. I build all k
 
 ### Languages
 
-[![Skills](https://skillicons.dev/icons?i=python,php,js,java,mysql&theme=dark)](https://skillicons.dev)
-
-<br>
+[![Languages](https://skillicons.dev/icons?i=python,php,js,java,mysql&theme=dark)](https://skillicons.dev)
 
 ### Frontend & Mobile
 
-[![Skills](https://skillicons.dev/icons?i=react,html,css&theme=dark)](https://skillicons.dev)&nbsp;&nbsp;![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
-<br>
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=white)&nbsp;![Alpine.js](https://img.shields.io/badge/Alpine.js-0d1117?style=flat-square&logo=alpinedotjs&logoColor=white)
 
-### Backend & APIs
+### Backend & Infrastructure
 
-[![Skills](https://skillicons.dev/icons?i=laravel,nodejs,fastapi&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=laravel,nodejs,fastapi,docker&theme=dark)](https://skillicons.dev)
 
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=white)&nbsp;![Auth & Security](https://img.shields.io/badge/Auth_%26_Security-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)&nbsp;![Database Design](https://img.shields.io/badge/Database_Design-0d1117?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=white)&nbsp;![Auth & Security](https://img.shields.io/badge/Auth_%26_Security-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)&nbsp;![Database Design](https://img.shields.io/badge/Database_Design-0d1117?style=flat-square&logo=mysql&logoColor=white)
 
-<br>
-
-### Data & ML
+### Data, ML & AI
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)&nbsp;![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white)&nbsp;![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=white)&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=white)&nbsp;![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white)
 
-<br>
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-0d1117?style=flat-square&logo=openai&logoColor=white)&nbsp;![AI Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=probot&logoColor=white)&nbsp;![RAG](https://img.shields.io/badge/RAG_Systems-0d1117?style=flat-square&logo=databricks&logoColor=white)
 
-### AI & LLM
+### Tools
 
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-0d1117?style=flat-square&logo=openai&logoColor=white)&nbsp;![AI Agents](https://img.shields.io/badge/AI_Agents-0d1117?style=flat-square&logo=probot&logoColor=white)&nbsp;![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=white)&nbsp;![RAG](https://img.shields.io/badge/RAG_Systems-0d1117?style=flat-square&logo=databricks&logoColor=white)
-
-<br>
-
-### Infrastructure & Tools
-
-[![Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,jupyter,mysql&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql&theme=dark)](https://skillicons.dev)
 
 <br>
 
@@ -68,14 +58,10 @@ CS student and software developer, currently working as an intern. I build all k
 
 <br>
 
-### What I work on
-
 ```text
-  Web Apps        Full-stack builds with React, Laravel, Node.js & FastAPI
-  Mobile          Cross-platform apps with React Native
-  Data & ML       Analysis, visualisation, and lightweight ML pipelines
-  AI Integration  LLM APIs, agents, RAG systems, and prompt engineering
-  Backend         REST APIs, auth systems, database design, containerisation
+  Web & Mobile    React · React Native · Laravel · Tailwind · Alpine.js
+  Backend         Node.js · FastAPI · REST APIs · Auth · Docker
+  Data & AI       Pandas · NumPy · Scikit-Learn · LLM APIs · Agents · RAG
 ```
 
 <br>
